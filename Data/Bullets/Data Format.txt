@@ -1,0 +1,3 @@
+Base Speed
+Base Damage
+Expire Time (number of frames)

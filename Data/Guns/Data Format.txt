@@ -1,0 +1,5 @@
+Firing Speed (frames / bullet)
+Bullet Capacity
+Bullet Type
+Type of Gun? (pistol, rifle, etc)
+Movement Speed?

@@ -1,0 +1,5 @@
+Firing Speed (frames / bullet)
+Bullet Capacity
+Bullet Type
+Firing Type (single click/hold)
+Movement Speed
